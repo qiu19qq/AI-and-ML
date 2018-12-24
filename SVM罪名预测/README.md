@@ -25,7 +25,7 @@
 
 
 
-![](..\SVM罪名预测\flow_chart.png)
+![](https://github.com/qiu19qq/AI-and-ML/blob/master/SVM%E7%BD%AA%E5%90%8D%E9%A2%84%E6%B5%8B/flow_chart.png)
 
 #### 4、实现代码
 
